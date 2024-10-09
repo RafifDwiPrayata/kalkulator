@@ -33,4 +33,4 @@ Aplikasi kalkulator sederhana berbasis web yang dibangun menggunakan HTML, CSS, 
 
 1. Clone repositori ini ke direktori lokal:
    ```bash
-   git clone https://github.com/username/kalkulator.git
+   git clone https://github.com/rffdpryt/kalkulator.git
